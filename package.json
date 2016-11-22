@@ -1,0 +1,26 @@
+{
+  "name": "bar-node-asset-server",
+  "version": "1.0.0",
+  "description": "Bare asset server without any libraries",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/BEaStia/bare-node-asset-server.git"
+  },
+  "keywords": [
+    "node.js",
+    "node",
+    "asset-server",
+    "assets"
+  ],
+  "author": "Igor Pavlov (gophan1992@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BEaStia/bare-node-asset-server/issues"
+  },
+  "homepage": "https://github.com/BEaStia/bare-node-asset-server#readme"
+}
